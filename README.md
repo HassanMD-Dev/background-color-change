@@ -1,5 +1,7 @@
 A simple JavaScript project that changes the background color to a random color every time the button is clicked.
-Great for practicing DOM manipulation, functions, and Math.random().
+Now includes a Copy Color feature that lets users copy the generated color code with one click.
+
+Great for practicing DOM manipulation, functions, events, and Math.random().
 
 ✨ Features
 
@@ -7,20 +9,27 @@ Changes background color on each click
 
 Generates completely random colors
 
-Simple, clean UI
+Shows the active color code on screen
+
+Copy Color button to copy the hex code
 
 Beginner-friendly JavaScript logic
+
+Simple, clean UI
 
 📂 Demo
 
 👉 Live Demo: 
-👉 GitHub Repository: [https://github.com/HassanMD-Dev/background-color-change.git]
+👉 GitHub Repository: 
 
 🧠 How It Works
 
-The project uses a small function that:
+The project uses JavaScript to:
 
-Generates a random color
+Generate a random hex color
 
-Applies it to the page's background
+Apply it to the page's background
 
+Display the generated color code
+
+Copy the color code to clipboard when the button is clicked
