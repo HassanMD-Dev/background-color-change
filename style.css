@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body, html{
+    height: 100%;
+    width: auto 100%;
+}
+.contaniner{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+#chgBtn{
+    padding: 10px 20px;
+    font-size: 50px;
+    font-weight: 700;
+    cursor: pointer;
+    border: 1px solid #007BFF;
+    border-radius: 40px;
+    background-color: #ffffff; 
+    color: #007BFF;
+    transition: box-shadow 0.4s ease;
+}
+#chgBtn:hover{
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
