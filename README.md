@@ -20,7 +20,7 @@ Simple, clean UI
 📂 Demo
 
 👉 Live Demo: 
-👉 GitHub Repository: 
+👉 GitHub Repository: [https://github.com/HassanMD-Dev/background-color-change.git]
 
 🧠 How It Works
 
