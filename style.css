@@ -29,3 +29,11 @@ body, html{
 #chgBtn:hover{
     box-shadow: 0 0 5px rgba(0,0,0,0.5);
 }
+#copyBtn{
+    font-size: 40px;
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+    color: #007BFF;
+    transition: color 0.4s ease;
+}
