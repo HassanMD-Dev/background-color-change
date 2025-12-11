@@ -36,4 +36,8 @@ body, html{
     background-color: transparent;
     color: #007BFF;
     transition: color 0.4s ease;
+    border: 1px solid #007BFF;
+}
+#copyBtn:hover{
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
 }
