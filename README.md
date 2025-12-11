@@ -14,14 +14,13 @@ Beginner-friendly JavaScript logic
 📂 Demo
 
 👉 Live Demo: 
-👉 GitHub Repository: 
+👉 GitHub Repository: [https://github.com/HassanMD-Dev/background-color-change.git]
 
 🧠 How It Works
 
 The project uses a small function that:
 
-Generates a random hex color
+Generates a random color
 
 Applies it to the page's background
 
-Also displays the selected color code (optional)
